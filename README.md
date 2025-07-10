@@ -1,4 +1,4 @@
 
 # about me
 
-i am a developer/researcher.
+i am a researcher/engineer/enthusiast
